@@ -1,7 +1,7 @@
 
 const Hero = () => {
   return (
-    <div className="py-[120px] mt-[120px] "    style={{
+    <div className="py-[120px] sm:mt-[120px] mt-[40px] "    style={{
       backgroundImage: 'url("/luzo_partners.jpg")', // Replace with your image URL
       backgroundSize: 'cover', // Adjust to cover the entire area
       backgroundPosition: 'center', // Center the image
