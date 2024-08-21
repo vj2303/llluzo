@@ -75,7 +75,7 @@ const Form = () => {
 
   return (
     <div className='mb-[100px] mt-6  max-w-[1200px] mx-auto'>
-      <h2 className='font-medium text-[20px] sm:text-[30px] font-semibold mb-4 pl-5'>Want to partner with us ?</h2>
+      <h2 className='font-medium text-[20px] sm:text-[30px] font-semibold mb-4 pl-5'>Want to partner with us</h2>
       {/* <p className='mb-2 text-[#707070] text-center'>(All fields are mandatory)</p> */}
 
 
